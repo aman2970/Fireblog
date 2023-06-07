@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_yellow">#FECB30</color>
+    <color name="amber">#FEC426</color>
+    <color name="selective_yellow">#FFB90C</color>
+    <color name="dark_tangerine">#FEA715</color>
+    <color name="united_blue">#039BE6</color>
+    <color name="pumpkin">#EE6A00</color>
+
+</resources>
