@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Fireblog</string>
+    <string name="fireblog">fireblog</string>
 </resources>
